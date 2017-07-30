@@ -1,0 +1,24 @@
+{
+  "name": "Ptt-Login-Bot",
+  "version": "1.0.0",
+  "description": "懶的刷登入ptt次數的機器人",
+  "main": "pttLogin.js",
+  "dependencies": {
+    "iconv-lite": "^0.4.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanagiragi/Ptt-Login-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanagiragi/Ptt-Login-Bot/issues"
+  },
+  "homepage": "https://github.com/yanagiragi/Ptt-Login-Bot#readme"
+}
